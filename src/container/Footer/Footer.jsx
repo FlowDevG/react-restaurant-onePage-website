@@ -42,7 +42,7 @@ const Footer = () => {
       </div>
 
       <div className="footer__copyright">
-        <p className="p__opensans">2022 Gericht. All Rights Reserved</p>
+        <p className="p__opensans">2022 Gericht. All Rights Reserved | FlowGeeZ</p>
       </div>
 
     </div>
